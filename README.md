@@ -50,7 +50,7 @@ This project was created as part of a **SQL course** to explore key questions in
   - Build real projects showcasing both analytical and engineering capabilities.
 
 - 🔗 **Next Steps**  
-  - Explore the `project_sql/` folder for full query details.  
+  - Explore the [project_sql/](./project_sql/) folder for full query details.b 
   - ⭐ Star & fork this repo to track updates or contribute your own analyses!
 
 > Thank you for exploring this project—happy analyzing! 👩‍💻👨‍💻  
