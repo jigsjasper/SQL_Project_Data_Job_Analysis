@@ -56,6 +56,7 @@ WHERE
 ORDER BY
   salary_year_avg DESC
 LIMIT 10;
+```
 
 ## 📘 What I Learned
 
