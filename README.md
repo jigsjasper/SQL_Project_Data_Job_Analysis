@@ -28,6 +28,8 @@ This project was created as part of a **SQL course** to explore key questions in
 - **Git & GitHub**: Version control for tracking changes, collaborating, and publishing code  
 
 # The Analysis
+
+
 ## 📘 What I Learned
 
 - 🧩 **Advanced SQL Crafting**: Built complex queries using `JOIN`, `WITH`, `GROUP BY`, `HAVING` and `CTE querries`to answer real-world questions  
@@ -36,7 +38,7 @@ This project was created as part of a **SQL course** to explore key questions in
 - 🔄 **Version Control Workflow**: Strengthened Git & GitHub skills—initializing repos, committing changes, and managing remote pushes  
 - 🚀 **Visualization Integration**: Prepared data for charts and tables, enhancing the readability of results in documentation  
 
-## ✅ Conclusion & Final Thoughts
+## ✅ Conclusion 
 
 - 🎯 **Key Takeaways**  
   - Top-paying and in-demand roles both highlight the importance of **SQL**, **Python**, and **cloud/big-data tools**.  
