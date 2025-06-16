@@ -57,7 +57,6 @@ ORDER BY
   salary_year_avg DESC
 LIMIT 10;
 ```
-
 ## 📘 What I Learned
 
 - 🧩 **Advanced SQL Crafting**: Built complex queries using `JOIN`, `WITH`, `GROUP BY`, `HAVING` and `CTE querries`to answer real-world questions  
