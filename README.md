@@ -27,8 +27,35 @@ This project was created as part of a **SQL course** to explore key questions in
 - **Visual Studio Code**: IDE for writing and running SQL scripts with extensions (e.g., SQLTools)  
 - **Git & GitHub**: Version control for tracking changes, collaborating, and publishing code  
 
-# The Analysis
+## 🔍 Analysis
 
+Each query dives into a different angle of the remote Data Analyst landscape. Below is a concise walkthrough of the questions, SQL logic, and key findings.
+
+---
+
+### 1. Top-Earning Remote Data Analyst Roles
+
+**Goal:** Surface the top 10 remote Data Analyst positions by average annual pay to spotlight peak earning potential.
+
+```sql
+SELECT
+  job_id,
+  job_title,
+  job_location,
+  job_schedule_type,
+  salary_year_avg,
+  job_posted_date,
+  name AS company_name
+FROM job_postings_fact
+LEFT JOIN company_dim
+  ON job_postings_fact.company_id = company_dim.company_id
+WHERE
+  job_title_short    = 'Data Analyst'
+  AND job_location   = 'Anywhere'
+  AND salary_year_avg IS NOT NULL
+ORDER BY
+  salary_year_avg DESC
+LIMIT 10;
 
 ## 📘 What I Learned
 
