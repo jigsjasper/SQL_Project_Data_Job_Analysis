@@ -30,7 +30,7 @@ This project was created as part of a **SQL course** to explore key questions in
 # The Analysis
 ## 📘 What I Learned
 
-- 🧩 **Advanced SQL Crafting**: Built complex queries using `JOIN`, `WITH`, `GROUP BY`, `HAVING` to answer real-world questions  
+- 🧩 **Advanced SQL Crafting**: Built complex queries using `JOIN`, `WITH`, `GROUP BY`, `HAVING` and `CTE querries`to answer real-world questions  
 - 📊 **Data Aggregation & Analysis**: Leveraged aggregate functions (`COUNT()`, `AVG()`) to quantify demand and salary trends  
 - 💡 **Translating Business Needs**: Converted project requirements into actionable analytical queries and clear insights  
 - 🔄 **Version Control Workflow**: Strengthened Git & GitHub skills—initializing repos, committing changes, and managing remote pushes  
